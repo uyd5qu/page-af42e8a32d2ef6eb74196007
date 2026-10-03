@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-98c4c55068.wjjb2b.cn/sitemap.xml

@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ba6c9d1e8a9b5f112ed3f6b1",
+  "owner": "uyd5qu",
+  "repo": "page-af42e8a32d2ef6eb74196007",
+  "title": "新干线",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "af42e8a32d2ef6eb74196007",
+      "a": "新干线",
+      "b": "",
+      "entity": "新干线",
+      "brand": "新干线",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4dfe29eba90d0e95d3b9d62901bd35d646ca01236a1495c637bb55f731a593af",
+      "content": {
+        "keyword1": "新干线",
+        "keyword2": "",
+        "primary_entity": "新干线",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "新干线是面向全球用户的官方高速机场与VPN服务，提供多套餐订阅、全平台客户端下载及清晰配置流程，助力流媒体、游戏与跨境办公稳定加速。",
+          "AI_DESCRIPTION": "新干线是面向全球用户的官方高速机场与VPN服务，提供多套餐订阅、全平台客户端下载及清晰配置流程，助力流媒体、游戏与跨境办公稳定加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*::before,*::after{box-sizing:border-box}html,body{overflow-x:hidden}body{margin:0;font-family:system-ui,-apple-system,sans-serif;font-size:16px;line-height:1.65;color:#1e1b4b;background:#f4f4f5}a{color:#6d28d9}header{background:#4c1d95;color:#fff;padding:1rem}.wrap{max-width:960px;margin:0 auto;padding:0 1rem}nav{display:flex;flex-wrap:wrap;gap:0.75rem;margin-top:0.5rem}nav a{color:#ede9fe;text-decoration:none}h1{font-size:1.75rem;line-height:1.3;margin:0 0 1rem;color:#4c1d95}h2{font-size:1.35rem;color:#5b21b6;margin:2rem 0 0.75rem}h3{font-size:1.1rem;color:#6d28d9;margin:1rem 0 0.5rem}main{padding:1.5rem 0 3rem}.stagger{display:flex;flex-direction:column;gap:1.25rem;margin:1.25rem 0}@media(min-width:720px){.stagger{flex-direction:row;align-items:stretch}.stagger.reverse{flex-direction:row-reverse}.stagger>div{flex:1 1 0}}.panel{background:#fff;border-radius:12px;padding:1.25rem;box-shadow:0 1px 2px rgba(76,29,149,.08)}.accent{background:#f5f3ff;border:1px solid #ddd6fe}.plans{display:flex;flex-direction:column;gap:1rem}@media(min-width:720px){.plans{flex-direction:row;align-items:stretch}}.plan{flex:1;background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:1.25rem}.plan.featured{border:2px solid #7c3aed;background:#faf5ff}.price{font-size:1.5rem;font-weight:700;color:#5b21b6}.annual{font-size:0.9rem;color:#6b7280}ul,ol{padding-left:1.2rem}li{margin:0.35rem 0}.cta{display:inline-block;background:#7c3aed;color:#fff;text-decoration:none;padding:0.6rem 1.1rem;border-radius:8px;margin:0.5rem 0.5rem 0 0}.faq details{background:#fff;border-radius:8px;padding:0.75rem 1rem;margin:0.6rem 0;border:1px solid #e5e7eb}.faq summary{font-weight:600;color:#4c1d95}footer{background:#1e1b4b;color:#e0e7ff;padding:2rem 0;font-size:0.9rem}footer a{color:#c4b5fd}footer .ads{background:#312e81;padding:1rem;border-radius:8px;margin-bottom:1.25rem}.friends{display:flex;flex-wrap:wrap;gap:0.75rem}.sitemap{margin:1rem 0}.note{font-size:0.9rem;color:#4b5563}header strong{font-size:1.2rem}</style><header><div class=\"wrap\"><strong>新干线</strong> 官方网站<nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenarios\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"wrap\"><h1>新干线官方网站：高速机场订阅与VPN网络加速服务</h1><section id=\"intro\"><div class=\"stagger\"><div class=\"panel\"><h2>品牌简介</h2><p>新干线以高铁般的准点与稳定为理念，运营独立的跨境加速网络。我们提供覆盖全球的精选节点，强调低延迟 IPLC 专线、原生流媒体解锁以及可持续的带宽质量。无论是个人用户还是小型团队，都可通过官网完成订阅、获取机场订阅链接并下载官方推荐客户端，快速接入高速通道。</p><p>服务坚持透明套餐与清晰设备配额，避免隐性限速。节点日常维护，高峰期仍保持可用体验。访问新干线官网即可查看最新线路与下载入口。</p></div><div class=\"panel accent\"><h3>为什么选择新干线</h3><ul><li>自有节点与专线优化，延迟更可控</li><li>多协议订阅一键导入主流客户端</li><li>流媒体与常见对话服务定向优化</li><li>官网统一提供下载与配置说明</li></ul><a class=\"cta\" href=\"#plans\">查看套餐</a></div></div></section><section id=\"plans\"><h2>套餐方案</h2><p class=\"note\">以下为官网现行公开套餐，支持按月或按年订阅，年付更优惠。流量按自然月重置，设备数为同时在线上限。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#guide\">开始配置</a></div><div class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#guide\">推荐办理</a></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">咨询开通</a></div></div></section><section id=\"scenarios\"><div class=\"stagger reverse\"><div class=\"panel\"><h2>使用场景</h2><p>新干线机场适合需要稳定跨境连接的日常与专业场景。通过官网下载客户端并导入订阅后，即可按节点延迟智能选择线路。</p><h3>流媒体与内容</h3><p>旗舰版及以上针对主流流媒体做了原生解锁，可流畅播放高清与 4K 内容，减少地区限制带来的缓冲。</p><h3>游戏与实时应用</h3><p>IPLC 游戏优化线路降低丢包与抖动，适合对延迟敏感的对战与语音。</p></div><div class=\"panel\"><h3>跨境办公与协作</h3><p>稳定访问文档、代码仓库、会议与云盘，减少公共网络干扰。团队版支持更多设备与定制分流。</p><h3>出行与公共网络</h3><p>在酒店、机场或海外漫游时，用客户端一键连接，保护连接并提升访问速度。学术检索、开发调试、多地内容同步等同样适用，具体以套餐流量与节点策略为准。</p></div></div></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>新干线强调可落地的配置流程，从官网下单到客户端连通通常只需几分钟。请按下列步骤操作，遇到问题可查阅常见问题或提交工单。</p><div class=\"stagger\"><div class=\"panel\"><ol><li>打开新干线官网，注册并登录账号，选择基础版、旗舰版或团队版完成支付。</li><li>进入用户中心，复制 Clash、V2Ray 或 Surge 格式的机场订阅链接，妥善保存。</li><li>前往本页客户端下载区域，根据 Windows、macOS、Android 或 iOS 获取对应程序。</li><li>安装客户端后，选择从 URL 导入或订阅管理，粘贴链接并更新节点。</li><li>在节点列表中测试延迟，优先选择 IPLC 或标注解锁的线路，开启系统代理或 TUN。</li><li>浏览器访问目标网站验证，必要时切换节点或更新订阅。旗舰用户可走优先支持通道。</li></ol></div><div class=\"panel accent\"><h3>配置要点</h3><ul><li>保持设备系统时间准确，避免证书错误。</li><li>同一订阅可导入多台设备，但请遵守同时在线数量。</li><li>建议定期在客户端内更新订阅以获取新节点。</li><li>若应用需分流，可在客户端规则中自定义域名。</li></ul><a class=\"cta\" href=\"#download\">前往官方下载</a></div></div></section><section id=\"download\"><h2>客户端官方下载</h2><p>请通过新干线官网指引获取客户端，避免来路不明的安装包。以下为常用平台说明，链接指向本页锚点便于收藏，实际文件请以官网用户中心或文档页最新版本为准。</p><div class=\"stagger reverse\"><div class=\"panel\"><h3>桌面端</h3><p>Windows 推荐 Clash Verge 或兼容 Clash Meta 内核的客户端，导入订阅后开启 TUN 可接管全局流量。</p><p>macOS 可使用 ClashX Meta 或 Surge。Linux 用户可选择 Clash Meta 命令行或图形前端。</p><a class=\"cta\" href=\"#\">Windows 官方下载说明</a><a class=\"cta\" href=\"#\">macOS 配置文档</a></div><div class=\"panel\"><h3>移动端</h3><p>Android 推荐 Clash Meta for Android，支持订阅与规则更新。</p><p>iOS 可在可用地区账号下载 Shadowrocket、Stash 或 Quantumult X，然后在应用内添加新干线订阅链接。官网提供图文导入步骤。</p><a class=\"cta\" href=\"#\">Android 下载指引</a><a class=\"cta\" href=\"#\">iOS 导入教程</a></div></div></section><section id=\"faq\"><h2>常见问题</h2><div class=\"faq\"><details><summary>新干线如何下载并安装客户端？</summary><p>请先在本站客户端官方下载查看对应系统说明，通过官网或可信应用商店获取安装包。安装后先复制用户中心的订阅链接再导入，可减少节点为空的情况。</p></details><details><summary>机场订阅链接支持哪些协议？</summary><p>新干线提供 Clash、Clash Meta、V2Ray、Shadowsocks 以及 Surge 等常见格式。复制后在客户端选择匹配类型导入即可，一般无需手动填写服务器地址。</p></details><details><summary>各套餐流量与设备限制如何理解？</summary><p>流量为每月配额，用尽后需等待重置或升级。同时在线设备数为基础版 3 台、旗舰版 5 台、团队版 20 台。超出可能影响速度，建议关闭闲置设备上的连接。</p></details><details><summary>能否解锁流媒体和常见在线服务？</summary><p>基础版覆盖常用内容平台；旗舰版与团队版强调全节点原生解锁。实际效果随目标站点策略变化，可在客户端切换解锁节点测试。</p></details><details><summary>游戏加速应选择哪类节点？</summary><p>优先使用套餐中标注 IPLC 或游戏优化的线路，通常延迟更低、波动更小。旗舰版包含此项优化。连接后建议关闭其他占用带宽的下载任务。</p></details><details><summary>连接不稳定时怎样处理？</summary><p>依次尝试更新订阅、更换节点、切换协议或客户端、检查本地防火墙与系统时间。仍无法解决时，旗舰与团队用户可通过官网工单获得优先支持，并提供客户端日志便于排查。</p></details></div></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><div class=\"ads\">广告位：新干线旗舰版年付通道已开放，欢迎通过官网完成订阅并下载客户端体验 IPLC 加速。</div><p>新干线官方网站提供机场订阅、VPN 梯子网络加速与客户端下载服务。本页内容仅作使用说明，具体以用户中心实时展示为准。</p><div class=\"sitemap\">网站地图： <a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐方案</a> · <a href=\"#scenarios\">使用场景</a> · <a href=\"#guide\">配置流程</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a></div><p>友情链接：</p><div class=\"friends\"><a href=\"#\">加速百科</a><a href=\"#\">客户端教程站</a><a href=\"#\">节点延迟检测</a><a href=\"#\">隐私保护指南</a><a href=\"#\">跨境办公手册</a></div><p>© 新干线 官方网站</p></div></footer>",
+          "hash": "c0db93cd0f08d9156b6af7b8da65555e2391373ba65e038d87ace315ca029685",
+          "seo": {
+            "title": "新干线官网｜VPN机场订阅、网络加速器与客户端官方下载",
+            "keywords": "新干线,新干线VPN,新干线机场,新干线官网,VPN梯子,网络加速,加速器,机场订阅,客户端下载,IPLC游戏加速",
+            "description": "新干线是面向全球用户的官方高速机场与VPN服务，提供多套餐订阅、全平台客户端下载及清晰配置流程，助力流媒体、游戏与跨境办公稳定加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wjjb2b.cn",
+    "host": "p-98c4c55068.wjjb2b.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "wjjb2b.cn",
+      "url": "https://wjjb2b.cn/",
+      "label": "OxygenProxy",
+      "apex": "wjjb2b.cn",
+      "kind": null,
+      "identity": "qhwchdra/page-d9105f9617d8654cfd09285d"
+    },
+    {
+      "host": "adsak.cn",
+      "url": "https://adsak.cn/",
+      "label": "新干线",
+      "apex": "adsak.cn",
+      "kind": null,
+      "identity": "ctbqmqste/page-ec26b5006c700cdead5f72a8"
+    },
+    {
+      "host": "bbxianth.cn",
+      "url": "https://bbxianth.cn/",
+      "label": "新干线",
+      "apex": "bbxianth.cn",
+      "kind": null,
+      "identity": "whnvcvtrg/page-9b779b96e2d72e421cbb514d"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c18183a7b7a923cb56cb045f2094e6a21a4179f003b15a0981672d4f8339ef3f",
+    "sitemap.xml": "e860195f97c46b6d6b4e64703af8286430376683a643af6dfb08ec662cedef3b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "922e274212689abaf04c33cdbcb5fb98d520c4db91bd170a793e0ece1369f7c8",
+    "robots.txt": "fd5adf1294c24e0a2f05a62f0ba9f99a5be8982dd31e292daf73346bcc789a1d",
+    "f3589379e7871c79e9a9472c14708a9b.txt": "4cd22e55be932f11b631cc2bdf14a4c6d113b11d082fc8dae4495fe5e9dc1f7e"
+  },
+  "revision": "8e139bf543a3122410e6a2d6229bad6f4f2d1e551a8ee05d2356b372fc6945df"
+}
